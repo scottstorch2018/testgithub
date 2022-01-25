@@ -1,3 +1,5 @@
 hello
 salut
 konishoua
+salam
+hallo
