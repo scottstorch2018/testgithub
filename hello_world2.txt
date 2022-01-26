@@ -5,3 +5,4 @@ vrai feature 4
 vrai feature direct sur github
 version 5 depuis local
 pull ss track
+modif pr vr fetch head
